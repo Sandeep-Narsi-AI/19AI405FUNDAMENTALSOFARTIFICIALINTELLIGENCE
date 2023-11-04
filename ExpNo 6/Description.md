@@ -24,8 +24,8 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 
 ## Code:
 ```
-Name: ANISH M J
-Register Number:212221230005
+Name: PASUPULETI SANDEEP
+Register Number:212221230074
 ```
 ```
 import time
